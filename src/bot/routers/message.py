@@ -78,8 +78,7 @@ async def text_handler(
         text=message.text,
         photo=message.photo,
         video=message.video,
-        caption=message.caption,
-        buttons=None
+        caption=message.caption
     )
     data = {
         "message_type": message_type
