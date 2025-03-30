@@ -34,4 +34,4 @@
     python -m src.bot
 
 # Использование
- Данный бот запущен в телеграме под юзернеймом @callback_builder_bot. Вы можете использовать его. Ccылка: [Ссылка на телеграм бота](https://callback_builder_bot) 
+ Данный бот запущен в телеграме под юзернеймом @callback_builder_bot. Вы можете использовать его. Ccылка: [Ссылка на телеграм бота](https://t.me/callback_builder_bot) 
