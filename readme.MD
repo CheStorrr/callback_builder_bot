@@ -17,6 +17,7 @@
 
 # Установка
 
+    git clone git@github.com:CheStorrr/callback_builder_bot.git && cd callback_builder_bot
     python -m venv venv
     source venv/bin/activate  # для Windows: venv\Scripts\activate
 
